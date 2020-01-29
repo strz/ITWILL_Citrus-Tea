@@ -1,0 +1,10 @@
+ # 필독
+:: google과 같은 대형 포탈의 경우 국가 도메인이 바뀌어도 검색어가 같을 경우 결과가 같습니다
+
+# bing
+https://www.bing.com/images/search?q=tsutsugamushi&FORM=HDRSC2
+https://www.bing.com/images/search?q=scrub%20typhus&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus&sc=8-12&sk=&cvid=0D841D1F3ED444AC9C29EB052F0386D9
+https://www.bing.com/images/search?q=scrub%20typhus%20eschar&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus%20eschar&sc=0-19&sk=&cvid=460F35EBC6864AFAADC590A55AC02221
+
+# 러시아
+https://yandex.ru/images/search?text=scrub%20typhus%20eschar&ncrnd=1580288614278-3922510995711581
