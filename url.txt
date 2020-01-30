@@ -1,10 +1,20 @@
- # « µ∂
-:: google∞˙ ∞∞¿∫ ¥Î«¸ ∆˜≈ª¿« ∞ÊøÏ ±π∞° µµ∏ﬁ¿Œ¿Ã πŸ≤ÓæÓµµ ∞ÀªˆæÓ∞° ∞∞¿ª ∞ÊøÏ ∞·∞˙∞° ∞∞Ω¿¥œ¥Ÿ
+ ## Ï†ïÎ¶¨
+:: googleÍ≥º Í∞ôÏùÄ ÎåÄÌòï Ìè¨ÌÉàÏùò Í≤ΩÏö∞ Íµ≠Í∞Ä ÎèÑÎ©îÏù∏Ïù¥ Î∞îÎÄåÏñ¥ÎèÑ Í≤ÄÏÉâÏñ¥Í∞Ä Í∞ôÏùÑ Í≤ΩÏö∞ Í≤∞Í≥ºÍ∞Ä Í∞ôÏäµÎãàÎã§(ÌòÑÏßÄÌôî Ïûò Îêú ÏïºÌõÑ Ï†úÏô∏)
+=> Í∞ÅÏûê Îß°ÏùÄ Ïñ∏Ïñ¥Î•º Îã®Ïñ¥ Î≤àÏó≠ ÌõÑ Í≤ÄÏÉâ 
+=> Î°úÏª¨ Ìè¨ÌÑ∏Ïù¥ ÏûàÎã§Î©¥ Ï∞æÏïÑÏÑú Í≤ÄÏÉâ
+‚ÄªÎàà ÏïÑÌîî Î∞è ÌòêÏß§Ï£ºÏùò
 
-# bing
-https://www.bing.com/images/search?q=tsutsugamushi&FORM=HDRSC2
-https://www.bing.com/images/search?q=scrub%20typhus&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus&sc=8-12&sk=&cvid=0D841D1F3ED444AC9C29EB052F0386D9
-https://www.bing.com/images/search?q=scrub%20typhus%20eschar&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus%20eschar&sc=0-19&sk=&cvid=460F35EBC6864AFAADC590A55AC02221
+### bing
+Àô https://www.bing.com/images/search?q=tsutsugamushi&FORM=HDRSC2
+Àô https://www.bing.com/images/search?q=scrub%20typhus&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus&sc=8-12&sk=&cvid=0D841D1F3ED444AC9C29EB052F0386D9
+Àô https://www.bing.com/images/search?q=scrub%20typhus%20eschar&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus%20eschar&sc=0-19&sk=&cvid=460F35EBC6864AFAADC590A55AC02221
 
-# ∑ØΩ√æ∆
-https://yandex.ru/images/search?text=scrub%20typhus%20eschar&ncrnd=1580288614278-3922510995711581
+
+### yahoo_vietnam
+Àôhttps://vn.images.search.yahoo.com/search/images;_ylt=AwrPh9ZeEChetSUAZCFrUwx.;_ylu=X3oDMTB0N2poMXRwBGNvbG8Dc2czBHBvcwMxBHZ0aWQDBHNlYwNwaXZz?p=Tsutsugamushi&fr2=piv-web&fr=yfp-t
+Àôhttps://vn.images.search.yahoo.com/search/images;_ylt=AwrwJSImNDFeOFQAEiFtUwx.;_ylu=X3oDMTBsZ29xY3ZzBHNlYwNzZWFyY2gEc2xrA2J1dHRvbg--;_ylc=X1MDMjExNDczNzAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkAzZnOEVxREV3TGpJUEJ0VGZYakVUTmdYLk1TNHlOQUFBQUFCS0FNZDUEZnIDeWZwLXQEZnIyA3NhLWdwBGdwcmlkA2hScmpZaWh5UlBxRldpVWZQYUJ0UEEEbl9zdWdnAzAEb3JpZ2luA3ZuLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDBHFzdHJsAzIzBHF1ZXJ5A3NjcnViJTIwdHlwaHVzJTIwZXNjaGFyBHRfc3RtcAMxNTgwMjg0MTM4?p=scrub+typhus+eschar&fr=yfp-t&fr2=sb-top-vn.images.search&ei=UTF-8&n=60&x=wrt 
+Àôhttps://vn.images.search.yahoo.com/search/images;_ylt=AwrxhZXqODFerXcAFXRtUwx.;_ylu=X3oDMTBsZ29xY3ZzBHNlYwNzZWFyY2gEc2xrA2J1dHRvbg--;_ylc=X1MDMjExNDczNzAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkA1Z6eU5jakV3TGpJUEJ0VGZYakVUTmdKSE1TNHlOQUFBQUFDU3ZDbU0EZnIDeWZwLXQEZnIyA3NhLWdwBGdwcmlkA2h2b0tkTGNKU1RHVlJwSThsWW1YcEEEbl9zdWdnAzAEb3JpZ2luA3ZuLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDBHFzdHJsAzE3BHF1ZXJ5A3NjcnViJTIwdHlwaHVzJTIwBHRfc3RtcAMxNTgwMjg0MjA0?p=scrub+typhus+&fr=yfp-t&fr2=sb-top-vn.images.search&ei=UTF-8&n=60&x=wrt
+
+
+
+
