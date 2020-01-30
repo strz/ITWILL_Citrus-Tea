@@ -9,7 +9,7 @@
 [중]˙https://www.google.com/search?q=%E6%81%99%E8%99%AB%E7%97%85&tbm=isch&ved=2ahUKEwiUoJzMl6rnAhXHBt4KHZ68BYkQ2-cCegQIABAA&oq=%E6%81%99%E8%99%AB%E7%97%85&gs_l=img.3..0l5j0i24l5.33207.33365..33598...0.0..0.94.183.2......0....1..gws-wiz-img.SYE4-muVuiI&ei=7DIyXpT6FceN-Aae-ZbICA&bih=625&biw=1366
 [대] ˙https://www.google.com/search?q=%E6%81%99%E8%9F%B2%E7%97%85&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP34X-mqrnAhXIGaYKHX5_CvwQ_AUoAXoECAsQAw&biw=1366&bih=625
 [대] ˙https://www.google.com/search?q=%E6%81%99%E8%9F%B2%E7%97%85%E7%84%A6%E7%97%82&tbm=isch&ved=2ahUKEwjyrN6Xm6rnAhVQFIgKHfPwBt8Q2-cCegQIABAA&oq=%E6%81%99%E8%9F%B2%E7%97%85%E7%84%A6%E7%97%82&gs_l=img.3...18994.19571..24815...0.0..2.543.1537.4-1j2......0....1..gws-wiz-img.....0.wxM9ZM8woMI&ei=sDYyXvKUAtCooATz4Zv4DQ&bih=625&biw=1366
-
+[일] https://www.google.com/search?q=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E7%97%85&tbm=isch&tbs=rimg:CQrUlTFaPXwzImA1QkrVYmsoFtPmspbrLZ9-8TO9gbQinEamAsZIDTz_1p7qFu63RgiyNTWPcKF7hckzc850UkYG3j2flYckr1xnndx6ZmB3ufZ_1RKk_1cX4BoN2anLYPv8i1UrXV_1lfUU1ToqEgk1QkrVYmsoFhGER9_1UIei3wCoSCdPmspbrLZ9-EVyYmFpGGIlWKhIJ8TO9gbQinEYRkvEFtw60lT8qEgmmAsZIDTz_1pxGdKkiOMz_1s7yoSCbqFu63RgiyNEQJYarTWT1E9KhIJTWPcKF7hckwR6N-q5AxcZ1wqEgnc850UkYG3jxGER9_1UIei3wCoSCWflYckr1xnnEZpT8EzuJTGtKhIJdx6ZmB3ufZ8RW2ZsLbXXLAkqEgnRKk_1cX4BoNxGaU_1BM7iUxrSoSCWanLYPv8i1UEcf94RoHgSt4KhIJrXV_1lfUU1ToRIgtNJZLUC8lhhEff1CHot8A&tbo=u&sa=X&ved=2ahUKEwj7yOblxKrnAhWIHKYKHT5QA28QrnZ6BAgBEBY&biw=1918&bih=1009&dpr=1
 
 ### bing
 [영]˙ https://www.bing.com/images/search?q=tsutsugamushi&FORM=HDRSC2
