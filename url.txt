@@ -5,6 +5,12 @@
 ※눈 아픔 및 혐짤주의
 
 ### Google
+keyword(scrub typhus)
+[한] https://www.google.com/search?biw=1920&bih=1089&tbm=isch&sxsrf=ACYBGNS7hD1P9pblzAv--LCSS2qlLV4ifw%3A1580277727188&sa=1&ei=3x8xXs2LC4T6-QbT7rfACw&q=scrub+typhus&oq=scrub+typhus&gs_l=img.3..0l3j0i30l7.23453.23453..24281...0.0..0.105.206.0j2......0....2j1..gws-wiz-img.......0i7i30.21yTu7HDRU4&ved=0ahUKEwiN98ykkajnAhUEfd4KHVP3DbgQ4dUDCAc&uact=5
+keyword(tsutsugamushi)
+[한] https://www.google.com/search?q=tsutsugamushi&sxsrf=ACYBGNQhMYx-w6rXBKQRA6tb1uu9SH9VmQ:1580277724255&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi19JmjkajnAhVOFogKHZV4C_gQ_AUoAXoECBAQAw&cshid=1580277925022444&biw=1920&bih=1089
+keyword(쯔쯔가무시)
+[한] https://www.google.com/search?q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&sxsrf=ACYBGNRhxAselWfrHoyjof4MyCe45u7U0Q:1580282351018&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifk7XBoqjnAhWuHqYKHR8BASkQ_AUoAXoECA0QAw&biw=1920&bih=1089
 [중]˙https://www.google.com/search?q=%E6%81%99%E8%99%AB%E7%97%85%E7%84%A6%E7%97%82&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZlMTKl6rnAhVyzIsBHYJ8DRkQ_AUoAXoECAsQAw&biw=1366&bih=625
 [중]˙https://www.google.com/search?q=%E6%81%99%E8%99%AB%E7%97%85&tbm=isch&ved=2ahUKEwiUoJzMl6rnAhXHBt4KHZ68BYkQ2-cCegQIABAA&oq=%E6%81%99%E8%99%AB%E7%97%85&gs_l=img.3..0l5j0i24l5.33207.33365..33598...0.0..0.94.183.2......0....1..gws-wiz-img.SYE4-muVuiI&ei=7DIyXpT6FceN-Aae-ZbICA&bih=625&biw=1366
 [대] ˙https://www.google.com/search?q=%E6%81%99%E8%9F%B2%E7%97%85&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP34X-mqrnAhXIGaYKHX5_CvwQ_AUoAXoECAsQAw&biw=1366&bih=625
@@ -13,7 +19,14 @@
 [일] https://www.google.com/search?biw=1918&bih=1009&tbm=isch&sxsrf=ACYBGNRePfc_8kmiRnf95Enj8Sc0n9CMdQ%3A1580360451840&sa=1&ei=A2MyXs72MoTW-QaOi7lw&q=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+%E5%88%BA%E3%81%95%E3%82%8C%E8%B7%A1&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+&gs_l=img.3.1.35i39j0i30l9.5060.5322..6834...0.0..0.167.720.0j5......0....1..gws-wiz-img.xKdvo8wh0F8
 [일] https://www.google.com/search?biw=1918&bih=1009&tbm=isch&sxsrf=ACYBGNSeO0XRiEi8YC-OKgn0I8FKbHywSA:1580361298265&ei=UmYyXvzbD4jh-AbzhJDYCQ&q=scrub+typhus+eschar+picture&oq=scrub+typhus+eschar+picture&gs_l=img.3..0i19.2654.9692..9794...15.0..4.1975.10956.0j11j4-2j2j2j3j1......0....1..gws-wiz-img.......35i39j0i7i30j0i30j0i8i30j0i5i30j0i30i19j0i5i30i19j0i8i30i19.q7Tax4n2U2o&ved=0ahUKEwj8zLLOyKrnAhWIMN4KHXMCBJsQ4dUDCAc&uact=5&safe=images
 
+
 ### bing
+keyword(scrub typhus)
+[한] https://www.bing.com/images/search?q=scrub+typhus&FORM=HDRSC2
+keyword(tsutsugamushi)
+[한] https://www.bing.com/images/search?q=tsutsugamushi&qs=n&form=QBIR&sp=-1&pq=tsutsugamushi&sc=1-13&sk=&cvid=85C2991717FE4B26816278F505C74D5A
+keyword(쯔쯔가무시)
+[한] https://www.bing.com/images/search?q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&qs=n&form=QBIR&sp=-1&pq=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&sc=0-5&sk=&cvid=F2A513A7216C4E10970B4A2B4942F0A2
 [영]˙ https://www.bing.com/images/search?q=tsutsugamushi&FORM=HDRSC2
 ˙ https://www.bing.com/images/search?q=scrub%20typhus&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus&sc=8-12&sk=&cvid=0D841D1F3ED444AC9C29EB052F0386D9
 [영]˙ https://www.bing.com/images/search?q=scrub%20typhus%20eschar&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus%20eschar&sc=0-19&sk=&cvid=460F35EBC6864AFAADC590A55AC02221
@@ -43,6 +56,38 @@
 [일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E7%97%85&oq=&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo
 [일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E3%81%AE%E5%88%BA%E3%81%97%E5%8F%A3&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo
 [일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+%E5%88%BA%E3%81%95%E3%82%8C%E3%81%9F%E8%B7%A1&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo
+
+
+#### Daum
+keyword(scrub typhus)
+[한] https://search.daum.net/search?w=img&nil_search=btn&DA=NTB&enc=utf8&q=scrub%20typhus
+keyword(tsutsugamushi)
+[한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=tsutsugamushi
+keyword(쯔쯔가무시)
+[한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
+
+
+### Naver
+(scrub typhus)
+[한[ https://search.naver.com/search.naver?where=image&sm=tab_jum&query=scrub+typhus
+(tsutsugamushi)
+[한] https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=tsutsugamushi&oquery=scrub+typhus&tqi=UBa5osp0J1ZsstZdbdlssssstaG-365916
+(쯔쯔가무시)
+[한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
+
+
+### Zum
+(scrub typhus)
+[한] http://search.zum.com/search.zum?method=image&option=accu&query=scrub+typhus&rd=1&cm=tab&co=11
+(tsutsugamushi)
+[한] http://search.zum.com/search.zum?method=image&option=accu&qm=f_typing&rd=1&query=tsutsugamushi
+(쯔쯔가무시)
+[한] http://search.zum.com/search.zum?method=image&option=accu&qm=f_typing&rd=1&query=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
+
+
+
+
+
 
 
 
