@@ -3,7 +3,7 @@ from urllib.request import urlopen, Request   # URL 요청을 위한 클래스�
 from urllib.parse import quote_plus  # URL의 구문을 분석하기 위한 함수들이 정의
 from bs4 import BeautifulSoup
 
-baseUrl = 'https://www.google.com.my/search?q='
+baseUrl = 'https://www.google.com/search?q='
 plusUrl = input('검색어를 입력하세요:')
 
 url = baseUrl + quote_plus(plusUrl) + '&tbm=isch'      # quote_plus: 웹에서 한글을 아스키 코드로 변환시켜줌.
@@ -16,7 +16,8 @@ html = urlopen(req).read()
 # print(text)
 
 # html = urlopen(url).read()
-soup = BeautifulSoup(html, 'html.parser')   # 분석해주는 것임.
+soup = BeautifulSoup(markup = html, features='html5lib')   # 분석해주는 것임.
+#print(soup)
 img = soup.find_all(class_='rg_ic rg_i')
 
 print(img)
