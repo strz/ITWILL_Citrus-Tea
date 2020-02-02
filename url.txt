@@ -21,11 +21,11 @@ keyword(쯔쯔가무시)
 
 
 ### bing
-keyword(scrub typhus)
+keyword(scrub typhus)  #done
 [한] https://www.bing.com/images/search?q=scrub+typhus&FORM=HDRSC2
 keyword(tsutsugamushi)
 [한] https://www.bing.com/images/search?q=tsutsugamushi&qs=n&form=QBIR&sp=-1&pq=tsutsugamushi&sc=1-13&sk=&cvid=85C2991717FE4B26816278F505C74D5A
-keyword(쯔쯔가무시)
+keyword(쯔쯔가무시) #done
 [한] https://www.bing.com/images/search?q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&qs=n&form=QBIR&sp=-1&pq=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&sc=0-5&sk=&cvid=F2A513A7216C4E10970B4A2B4942F0A2
 [영]˙ https://www.bing.com/images/search?q=tsutsugamushi&FORM=HDRSC2
 ˙ https://www.bing.com/images/search?q=scrub%20typhus&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus&sc=8-12&sk=&cvid=0D841D1F3ED444AC9C29EB052F0386D9
