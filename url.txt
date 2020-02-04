@@ -58,7 +58,7 @@ keyword(쯔쯔가무시) #done
 [일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+%E5%88%BA%E3%81%95%E3%82%8C%E3%81%9F%E8%B7%A1&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo # done
 
 
-#### Daum
+#### Daum  # done by CMG
 keyword(scrub typhus)
 [한] https://search.daum.net/search?w=img&nil_search=btn&DA=NTB&enc=utf8&q=scrub%20typhus
 keyword(tsutsugamushi)
@@ -67,7 +67,7 @@ keyword(쯔쯔가무시)
 [한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
 
 
-### Naver
+### Naver  # done by LEJ
 (scrub typhus)
 [한[ https://search.naver.com/search.naver?where=image&sm=tab_jum&query=scrub+typhus
 (tsutsugamushi)
