@@ -53,9 +53,9 @@ keyword(쯔쯔가무시) #done
 
 ### Yahoo
 
-[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E7%97%85&oq=&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo
-[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E3%81%AE%E5%88%BA%E3%81%97%E5%8F%A3&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo
-[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+%E5%88%BA%E3%81%95%E3%82%8C%E3%81%9F%E8%B7%A1&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo
+[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E7%97%85&oq=&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo  # done
+[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E3%81%AE%E5%88%BA%E3%81%97%E5%8F%A3&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo  # done
+[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+%E5%88%BA%E3%81%95%E3%82%8C%E3%81%9F%E8%B7%A1&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo # done
 
 
 #### Daum
@@ -76,7 +76,7 @@ keyword(쯔쯔가무시)
 [한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
 
 
-### Zum
+### Zum  -> 대상밖. 사유 : google 맞춤검색에 기반하여 실질적으로 google검색과 다를 바 없고, 또 thumbnail의 화질이 심각하게 안 좋음.
 (scrub typhus)
 [한] http://search.zum.com/search.zum?method=image&option=accu&query=scrub+typhus&rd=1&cm=tab&co=11
 (tsutsugamushi)
