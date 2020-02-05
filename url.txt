@@ -1,8 +1,14 @@
-﻿ ## 정리
+ ## 정리
 :: google과 같은 대형 포탈의 경우 국가 도메인이 바뀌어도 검색어가 같을 경우 결과가 같습니다(현지화 잘 된 야후 제외)
 => 각자 맡은 언어를 단어 번역 후 검색 
 => 로컬 포털이 있다면 찾아서 검색
 ※눈 아픔 및 혐짤주의
+
+## 사진 정제 후,
+최명기 - https://drive.google.com/file/d/1Ps2u7y99yAJUwieu5SYQhIis5eeN0vnH/view?usp=sharing
+
+## 중복사진 제거한 이미지 1,311장 다운링크
+https://drive.google.com/file/d/1uamlbti3pO4834A0S9h0S9_pB07ih0v6/view?usp=sharing
 
 ## crawling 한거 구글 드라이브 주소 공유해주세요 ##
 이미지-https://drive.google.com/file/d/1qYHcdA1VltITtO3EXz47sQgBOlNp-wdh/view?usp=sharing
