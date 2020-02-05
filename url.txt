@@ -1,4 +1,4 @@
- ## 정리
+﻿ ## 정리
 :: google과 같은 대형 포탈의 경우 국가 도메인이 바뀌어도 검색어가 같을 경우 결과가 같습니다(현지화 잘 된 야후 제외)
 => 각자 맡은 언어를 단어 번역 후 검색 
 => 로컬 포털이 있다면 찾아서 검색
@@ -9,6 +9,8 @@
 이진우-https://drive.google.com/file/d/1SzxXt7uMr--24-g90AMtkY--2nUX2FTZ/view?usp=sharing
 이은지-https://drive.google.com/file/d/1U7pcNGnIC-tVgEKV9h8lc6qhxE0yE6oV/view?usp=sharing
 전종환 - https://drive.google.com/open?id=1jN5mdCwSmOj2ePXarb7AuqpZKcN32HlG
+최명기 - https://drive.google.com/file/d/1y1fAwy1cU31HfL2jvbBBpCVGqzG0AP0b/view?usp=sharing
+
 ### Google
 keyword(scrub typhus)
 [한/완] https://www.google.com/search?biw=1920&bih=1089&tbm=isch&sxsrf=ACYBGNS7hD1P9pblzAv--LCSS2qlLV4ifw%3A1580277727188&sa=1&ei=3x8xXs2LC4T6-QbT7rfACw&q=scrub+typhus&oq=scrub+typhus&gs_l=img.3..0l3j0i30l7.23453.23453..24281...0.0..0.105.206.0j2......0....2j1..gws-wiz-img.......0i7i30.21yTu7HDRU4&ved=0ahUKEwiN98ykkajnAhUEfd4KHVP3DbgQ4dUDCAc&uact=5
