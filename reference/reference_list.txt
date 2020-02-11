@@ -1,0 +1,2 @@
+1. 의료계의 데이터 부족 문제
+Perez, L., & Wang, J. (2017). The effectiveness of data augmentation in image classification using deep learning.
