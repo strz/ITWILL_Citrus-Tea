@@ -1,6 +1,6 @@
 """
 practice3
-- train_test_split을 이용해서 trian set와 test set으로 나눌 것이기 때문에,
+- train_test_split을 이용해서 train set와 test set으로 나눌 것이기 때문에,
     ISIC의 Train과 Test를 합치고 tsutsugamushi 폴더를 추가해 practice3라는 폴더 만듦
 - practice3 하위 폴더 이름을 ["ak", "bcc", "df", "mel", "nv", "pbk", "scc", "sk", "tsu", "vl"]로 변경
 - ImageDataGenerator 활용 후 최종 파일 수
