@@ -1,0 +1,111 @@
+ ## 정리
+:: google과 같은 대형 포탈의 경우 국가 도메인이 바뀌어도 검색어가 같을 경우 결과가 같습니다(현지화 잘 된 야후 제외)
+=> 각자 맡은 언어를 단어 번역 후 검색 
+=> 로컬 포털이 있다면 찾아서 검색
+※눈 아픔 및 혐짤주의
+
+## 최종 사진 및 skin cancer 이미지 공유
+최종 사진 : https://drive.google.com/open?id=1pTVEcdz3beT-D6WP6vOtp2Pl-jzrhGjD
+skin cancer : https://drive.google.com/file/d/1VlxIuz5pKLHbJrDwo4xTvYuBOOMnku45/view?usp=sharing
+
+
+## 사진 정제 후,
+최명기 - https://drive.google.com/file/d/1Ps2u7y99yAJUwieu5SYQhIis5eeN0vnH/view?usp=sharing
+이진우 - https://drive.google.com/file/d/1oppcTebZ-YtAjps_VmNNcfy0LYlV3yFl/view?usp=sharing
+전종환 - https://drive.google.com/open?id=1V1RhIjib8KV5M0Mv64BKyvINLTQkrp8d
+이은지 - https://drive.google.com/file/d/1UbNNh9xNeUceSZgqYh1x_e6G8Z-8QQVn/view?usp=sharing
+
+## 중복사진 제거한 이미지 1,311장 다운링크
+https://drive.google.com/file/d/1uamlbti3pO4834A0S9h0S9_pB07ih0v6/view?usp=sharing
+
+## crawling 한거 구글 드라이브 주소 공유해주세요 ##
+이미지-https://drive.google.com/file/d/1qYHcdA1VltITtO3EXz47sQgBOlNp-wdh/view?usp=sharing
+이진우-https://drive.google.com/file/d/1SzxXt7uMr--24-g90AMtkY--2nUX2FTZ/view?usp=sharing
+이은지-https://drive.google.com/file/d/1U7pcNGnIC-tVgEKV9h8lc6qhxE0yE6oV/view?usp=sharing
+전종환 - https://drive.google.com/open?id=1jN5mdCwSmOj2ePXarb7AuqpZKcN32HlG
+최명기 - https://drive.google.com/file/d/1y1fAwy1cU31HfL2jvbBBpCVGqzG0AP0b/view?usp=sharing
+
+### Google
+keyword(scrub typhus)
+[한/완] https://www.google.com/search?biw=1920&bih=1089&tbm=isch&sxsrf=ACYBGNS7hD1P9pblzAv--LCSS2qlLV4ifw%3A1580277727188&sa=1&ei=3x8xXs2LC4T6-QbT7rfACw&q=scrub+typhus&oq=scrub+typhus&gs_l=img.3..0l3j0i30l7.23453.23453..24281...0.0..0.105.206.0j2......0....2j1..gws-wiz-img.......0i7i30.21yTu7HDRU4&ved=0ahUKEwiN98ykkajnAhUEfd4KHVP3DbgQ4dUDCAc&uact=5
+keyword(tsutsugamushi)
+[한/완] https://www.google.com/search?q=tsutsugamushi&sxsrf=ACYBGNQhMYx-w6rXBKQRA6tb1uu9SH9VmQ:1580277724255&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi19JmjkajnAhVOFogKHZV4C_gQ_AUoAXoECBAQAw&cshid=1580277925022444&biw=1920&bih=1089
+keyword(쯔쯔가무시)
+[한/완] https://www.google.com/search?q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&sxsrf=ACYBGNRhxAselWfrHoyjof4MyCe45u7U0Q:1580282351018&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifk7XBoqjnAhWuHqYKHR8BASkQ_AUoAXoECA0QAw&biw=1920&bih=1089
+[중/ERROR]˙https://www.google.com/search?q=%E6%81%99%E8%99%AB%E7%97%85%E7%84%A6%E7%97%82&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZlMTKl6rnAhVyzIsBHYJ8DRkQ_AUoAXoECAsQAw&biw=1366&bih=625
+[중/완]˙https://www.google.com/search?q=%E6%81%99%E8%99%AB%E7%97%85&tbm=isch&ved=2ahUKEwiUoJzMl6rnAhXHBt4KHZ68BYkQ2-cCegQIABAA&oq=%E6%81%99%E8%99%AB%E7%97%85&gs_l=img.3..0l5j0i24l5.33207.33365..33598...0.0..0.94.183.2......0....1..gws-wiz-img.SYE4-muVuiI&ei=7DIyXpT6FceN-Aae-ZbICA&bih=625&biw=1366
+[대/완] ˙https://www.google.com/search?q=%E6%81%99%E8%9F%B2%E7%97%85&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP34X-mqrnAhXIGaYKHX5_CvwQ_AUoAXoECAsQAw&biw=1366&bih=625
+[대/완] ˙https://www.google.com/search?q=%E6%81%99%E8%9F%B2%E7%97%85%E7%84%A6%E7%97%82&tbm=isch&ved=2ahUKEwjyrN6Xm6rnAhVQFIgKHfPwBt8Q2-cCegQIABAA&oq=%E6%81%99%E8%9F%B2%E7%97%85%E7%84%A6%E7%97%82&gs_l=img.3...18994.19571..24815...0.0..2.543.1537.4-1j2......0....1..gws-wiz-img.....0.wxM9ZM8woMI&ei=sDYyXvKUAtCooATz4Zv4DQ&bih=625&biw=1366
+[일/완] https://www.google.com/search?q=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E7%97%85&tbm=isch&tbs=rimg:CQrUlTFaPXwzImA1QkrVYmsoFtPmspbrLZ9-8TO9gbQinEamAsZIDTz_1p7qFu63RgiyNTWPcKF7hckzc850UkYG3j2flYckr1xnndx6ZmB3ufZ_1RKk_1cX4BoN2anLYPv8i1UrXV_1lfUU1ToqEgk1QkrVYmsoFhGER9_1UIei3wCoSCdPmspbrLZ9-EVyYmFpGGIlWKhIJ8TO9gbQinEYRkvEFtw60lT8qEgmmAsZIDTz_1pxGdKkiOMz_1s7yoSCbqFu63RgiyNEQJYarTWT1E9KhIJTWPcKF7hckwR6N-q5AxcZ1wqEgnc850UkYG3jxGER9_1UIei3wCoSCWflYckr1xnnEZpT8EzuJTGtKhIJdx6ZmB3ufZ8RW2ZsLbXXLAkqEgnRKk_1cX4BoNxGaU_1BM7iUxrSoSCWanLYPv8i1UEcf94RoHgSt4KhIJrXV_1lfUU1ToRIgtNJZLUC8lhhEff1CHot8A&tbo=u&sa=X&ved=2ahUKEwj7yOblxKrnAhWIHKYKHT5QA28QrnZ6BAgBEBY&biw=1918&bih=1009&dpr=1
+[일/완] https://www.google.com/search?biw=1918&bih=1009&tbm=isch&sxsrf=ACYBGNRePfc_8kmiRnf95Enj8Sc0n9CMdQ%3A1580360451840&sa=1&ei=A2MyXs72MoTW-QaOi7lw&q=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+%E5%88%BA%E3%81%95%E3%82%8C%E8%B7%A1&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+&gs_l=img.3.1.35i39j0i30l9.5060.5322..6834...0.0..0.167.720.0j5......0....1..gws-wiz-img.xKdvo8wh0F8
+[일/완] https://www.google.com/search?biw=1918&bih=1009&tbm=isch&sxsrf=ACYBGNSeO0XRiEi8YC-OKgn0I8FKbHywSA:1580361298265&ei=UmYyXvzbD4jh-AbzhJDYCQ&q=scrub+typhus+eschar+picture&oq=scrub+typhus+eschar+picture&gs_l=img.3..0i19.2654.9692..9794...15.0..4.1975.10956.0j11j4-2j2j2j3j1......0....1..gws-wiz-img.......35i39j0i7i30j0i30j0i8i30j0i5i30j0i30i19j0i5i30i19j0i8i30i19.q7Tax4n2U2o&ved=0ahUKEwj8zLLOyKrnAhWIMN4KHXMCBJsQ4dUDCAc&uact=5&safe=images
+
+
+### bing
+keyword(scrub typhus)  #done
+[한] https://www.bing.com/images/search?q=scrub+typhus&FORM=HDRSC2
+keyword(tsutsugamushi)
+[한] https://www.bing.com/images/search?q=tsutsugamushi&qs=n&form=QBIR&sp=-1&pq=tsutsugamushi&sc=1-13&sk=&cvid=85C2991717FE4B26816278F505C74D5A
+keyword(쯔쯔가무시) #done
+[한] https://www.bing.com/images/search?q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&qs=n&form=QBIR&sp=-1&pq=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C&sc=0-5&sk=&cvid=F2A513A7216C4E10970B4A2B4942F0A2  # done
+[영]˙ https://www.bing.com/images/search?q=tsutsugamushi&FORM=HDRSC2  # done
+˙ https://www.bing.com/images/search?q=scrub%20typhus&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus&sc=8-12&sk=&cvid=0D841D1F3ED444AC9C29EB052F0386D9   #done
+[영]˙ https://www.bing.com/images/search?q=scrub%20typhus%20eschar&qs=n&form=QBIR&sp=-1&pq=scrub%20typhus%20eschar&sc=0-19&sk=&cvid=460F35EBC6864AFAADC590A55AC02221  # done
+
+
+### yahoo
+[영]˙https://vn.images.search.yahoo.com/search/images;_ylt=AwrPh9ZeEChetSUAZCFrUwx.;_ylu=X3oDMTB0N2poMXRwBGNvbG8Dc2czBHBvcwMxBHZ0aWQDBHNlYwNwaXZz?p=Tsutsugamushi&fr2=piv-web&fr=yfp-t  # done
+[영]˙https://vn.images.search.yahoo.com/search/images;_ylt=AwrwJSImNDFeOFQAEiFtUwx.;_ylu=X3oDMTBsZ29xY3ZzBHNlYwNzZWFyY2gEc2xrA2J1dHRvbg--;_ylc=X1MDMjExNDczNzAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkAzZnOEVxREV3TGpJUEJ0VGZYakVUTmdYLk1TNHlOQUFBQUFCS0FNZDUEZnIDeWZwLXQEZnIyA3NhLWdwBGdwcmlkA2hScmpZaWh5UlBxRldpVWZQYUJ0UEEEbl9zdWdnAzAEb3JpZ2luA3ZuLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDBHFzdHJsAzIzBHF1ZXJ5A3NjcnViJTIwdHlwaHVzJTIwZXNjaGFyBHRfc3RtcAMxNTgwMjg0MTM4?p=scrub+typhus+eschar&fr=yfp-t&fr2=sb-top-vn.images.search&ei=UTF-8&n=60&x=wrt  # done 
+[영]˙https://vn.images.search.yahoo.com/search/images;_ylt=AwrxhZXqODFerXcAFXRtUwx.;_ylu=X3oDMTBsZ29xY3ZzBHNlYwNzZWFyY2gEc2xrA2J1dHRvbg--;_ylc=X1MDMjExNDczNzAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkA1Z6eU5jakV3TGpJUEJ0VGZYakVUTmdKSE1TNHlOQUFBQUFDU3ZDbU0EZnIDeWZwLXQEZnIyA3NhLWdwBGdwcmlkA2h2b0tkTGNKU1RHVlJwSThsWW1YcEEEbl9zdWdnAzAEb3JpZ2luA3ZuLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDBHFzdHJsAzE3BHF1ZXJ5A3NjcnViJTIwdHlwaHVzJTIwBHRfc3RtcAMxNTgwMjg0MjA0?p=scrub+typhus+&fr=yfp-t&fr2=sb-top-vn.images.search&ei=UTF-8&n=60&x=wrt
+[대]˙https://tw.images.search.yahoo.com/search/images;_ylt=AwrwS5lWPzJetiMABB1r1gt.;_ylu=X3oDMTE0NGUzcW1zBGNvbG8Dc2czBHBvcwMxBHZ0aWQDQjkxMTdfMQRzZWMDcGl2cw--?p=%E6%81%99%E8%9F%B2%E7%97%85%E7%84%A6%E7%97%82&fr2=piv-web&fr=yfp-search-sb  # done
+[대]˙https://tw.images.search.yahoo.com/search/images;_ylt=AwrwJU1dPzJeGlgAd5Bt1gt.;_ylu=X3oDMTBsZ29xY3ZzBHNlYwNzZWFyY2gEc2xrA2J1dHRvbg--;_ylc=X1MDMjExNDcwNTAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkA3FVYkljakV3TGpKQ19hWW1Yakl0VEFmZU1TNHlOQUFBQUFBM1h5NUIEZnIDeWZwLXNlYXJjaC1zYgRmcjIDc2EtZ3AEZ3ByaWQDY25yY1VCYUdRcjZtMjdQU2pCNWpKQQRuX3N1Z2cDMARvcmlnaW4DdHcuaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMEcXN0cmwDMjcEcXVlcnkDJUU2JTgxJTk5JUU4JTlGJUIyJUU3JTk3JTg1BHRfc3RtcAMxNTgwMzUxMzYw?p=%E6%81%99%E8%9F%B2%E7%97%85&fr=yfp-search-sb&fr2=sb-top-tw.images.search&ei=UTF-8&n=60&x=wrt  # done
+
+
+### 360_china
+[중/완]˙https://image.so.com/i?q=%E6%81%99%E8%99%AB%E7%97%85%E7%84%A6%E7%97%82&src=tab_www
+
+### weibo_china
+[중/완]˙https://s.weibo.com/pic?q=%E6%81%99%E8%99%AB%E7%97%85%E7%84%A6%E7%97%82&Refer=weibo_pic
+[중/완]˙https://s.weibo.com/pic?q=%E6%81%99%E8%99%AB%E7%97%85&Refer=Spic_box
+
+### sohu_china
+[중/완]˙https://pic.sogou.com/pics?ie=utf8&p=40230504&interV=kKIOkrELjboMmLkEkrwTkKIMkLELjboImLkEk74TkKIMkrELjbkRmLkEmrELjbgRmLkEkLYTMVbmKDfwFnblWaIPjbcKkedLyKR7zOMTEl+OKkTcHWgElKJPxuRD1qR6wu981qR7zOMTKVeRFTbxHUwElKJ6wu9DxqRLzO1H1qR7zOM=_-1092712514&query=%E6%81%99%E8%9F%B2%E7%97%85&
+[중/완]˙https://pic.sogou.com/pics?ie=utf8&p=40230504&interV=kKIOkrELjb8TkKIJl7ELjboImLkElbkTkKIKmbELjboJmLkEkL8TkKIKmrELjbkImVnoLECJOjrIL34ElKIJk7Z50OEGwOVFmTvYHUOILzbljb0ExeV7mb4GwOVFmTbxFE7mJjX6jb0E1OtGyPsGw+dBxfsGwOVF_371931786&query=%E6%81%99%E8%99%AB%E7%97%85%E7%84%A6%E7%97%82&
+
+### Yahoo
+
+[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E7%97%85&oq=&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo  # done
+[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7%E3%81%AE%E5%88%BA%E3%81%97%E5%8F%A3&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo  # done
+[일] https://search.yahoo.co.jp/image/search?p=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7+%E5%88%BA%E3%81%95%E3%82%8C%E3%81%9F%E8%B7%A1&oq=%E3%83%84%E3%83%84%E3%82%AC%E3%83%A0%E3%82%B7&ei=UTF-8&rkf=1&imw=0&imh=0&imc=&dim=&ctype=photo # done
+
+
+#### Daum  # done by CMG
+keyword(scrub typhus)
+[한] https://search.daum.net/search?w=img&nil_search=btn&DA=NTB&enc=utf8&q=scrub%20typhus
+keyword(tsutsugamushi)
+[한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=tsutsugamushi
+keyword(쯔쯔가무시)
+[한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
+
+
+### Naver  # done by LEJ
+(scrub typhus)
+[한[ https://search.naver.com/search.naver?where=image&sm=tab_jum&query=scrub+typhus
+(tsutsugamushi)
+[한] https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=tsutsugamushi&oquery=scrub+typhus&tqi=UBa5osp0J1ZsstZdbdlssssstaG-365916
+(쯔쯔가무시)
+[한] https://search.daum.net/search?nil_suggest=btn&w=img&DA=SBC&q=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
+
+
+### Zum  -> 대상밖. 사유 : google 맞춤검색에 기반하여 실질적으로 google검색과 다를 바 없고, 또 thumbnail의 화질이 심각하게 안 좋음.
+(scrub typhus)
+[한] http://search.zum.com/search.zum?method=image&option=accu&query=scrub+typhus&rd=1&cm=tab&co=11
+(tsutsugamushi)
+[한] http://search.zum.com/search.zum?method=image&option=accu&qm=f_typing&rd=1&query=tsutsugamushi
+(쯔쯔가무시)
+[한] http://search.zum.com/search.zum?method=image&option=accu&qm=f_typing&rd=1&query=%EC%AF%94%EC%AF%94%EA%B0%80%EB%AC%B4%EC%8B%9C
+
+
+
+
+
