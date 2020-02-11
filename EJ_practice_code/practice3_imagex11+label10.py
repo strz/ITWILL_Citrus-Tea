@@ -42,7 +42,7 @@ if __name__ == '__main__':
     # 1. ImageDataGenerator
     main_dir = "./practice3"
     categories = ["ak", "bcc", "df", "mel", "nv", "pbk", "scc", "sk", "tsu", "vl"]
-    classes_num = len(categories)
+    cat_num = len(categories)
 
     datagen = ImageDataGenerator(rotation_range=15,
                                  width_shift_range=0.2,
@@ -75,7 +75,7 @@ if __name__ == '__main__':
     y = []
     for idx, cat in enumerate(categories):
         # one-hot label
-        label = [0 for i in range(classes_num)]
+        label = [0 for i in range(cat_num)]
         label[idx] = 1
 
         cat_dir = main_dir + "/" + cat
@@ -116,7 +116,7 @@ if __name__ == '__main__':
     model.add(Flatten())
     model.add(Dense(256, activation='relu'))
     model.add(Dropout(0.5))
-    model.add(Dense(classes_num, activation='softmax'))
+    model.add(Dense(cat_num, activation='softmax'))
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
     model_dir = "./model"
 
