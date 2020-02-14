@@ -9,7 +9,7 @@ import os
 from sklearn.preprocessing import LabelEncoder
 
 def img_preprocessing(path, size=(64, 64), file_name='', n=10000):
-    """ 폴더 안의 파일을 불러와 리스트로 저장하고,
+    """ 폴더 안의 파일을 불러와 파일이름을 리스트로 저장하고,
         이미지 사이즈, 확장자, 이름 변환
     :param path: 이미지가 저장되어 있는 폴더 경로
     :param size: (64, 64) 튜플형식으로 입력
