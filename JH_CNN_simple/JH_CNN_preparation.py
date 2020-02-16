@@ -1,8 +1,10 @@
-import os, sys, glob
+import glob
+import os
+import sys
 
 sys.path.append(os.pardir)
 from PIL import Image
-from keras.preprocessing.image import img_to_array
+from keras.preprocessing.image import img_to_array, ImageDataGenerator, load_img
 import numpy as np
 
 print('CURRENT WORKING DIRECTORY: ', os.getcwd())
@@ -54,7 +56,7 @@ def image_resizer(path, height=64, width=64, resized_name='resized_', limitation
         if maximum <= 0:
             raise ValueError('Invalid input')
         maximum = int(round(maximum, 0))
-        
+
         file_directory = file_directory[:maximum]
 
     for x in enumerate(file_directory):
@@ -130,6 +132,89 @@ return : Numpy Array. each element will have length as len(sub_directory), quasi
     print('labeled items : ', cnt)
 
     return np.array(OHE)
+
+
+def image_generator(source_path, save_path, duplication=10):
+    """
+    REFERED : MJ 03 IMAGE GENERATING.PY
+
+    Duplicates images. In order to handle generating setting, modify function itself.
+    Eventhough save_path does not exist, the function will create the directory.
+    Note that this function cannot access to subdirectories.
+
+    Parameters:
+    source_path : String. A directory where image files we'd like to duplicate are. MUST BE VALID PATH.
+    the function will detect 'bmp',jpg', 'jpeg', 'png' files only. Other extensions are ignored.
+    save_path : String. A directory where we'd like to store converted images.
+    If save_path is not valid, the function will create directory with python.builtins.os module.
+    duplication : Natural number. Determines the number of duplication.
+
+    """
+    print('INITIALIZING IMAGE GENERATOR...')
+    source_path = source_path.replace('\\', '/')
+    save_path = save_path.replace('\\', '/')
+
+    if duplication <= 1:
+        raise ValueError('Invalid Input')
+    else:
+        duplication = round(int(duplication), 0)
+
+    if not os.path.isdir(save_path):
+        os.mkdir(save_path)
+
+    power_generator = ImageDataGenerator(rescale=1. / 255,
+                                         rotation_range=30,  # 각도 범위내 회전
+                                         width_shift_range=0.1,  # 수평방향
+                                         height_shift_range=0.1,  # 수직방향
+                                         brightness_range=[0.2, 0.7],  # 밝기
+                                         shear_range=0.7,  # 시계반대방향
+                                         zoom_range=[0.9, 1.1],
+                                         horizontal_flip=True,  # 수평방향 뒤집기
+                                         vertical_flip=True,
+                                         fill_mode='nearest')
+
+    file_list = os.listdir(source_path)
+
+    delition = 1
+
+    for ext in file_list:
+        if os.path.isdir(ext):
+            print(f'DELETED BY IS NOT FILE : {delition, ext}')
+            # remove all items which aren't files. such as directories.
+            delition += 1
+            file_list.remove(ext)
+
+    for ext in file_list:
+        # if an item has no extension, remove it.
+        if len(ext.split('.')) == 1:
+            print(f'DELETED BY EXTENSION : {delition, ext}')
+            delition += 1
+            file_list.remove(ext)
+
+    for ext in file_list:
+        if not ext.split('.')[1] in ['bmp', 'jpg', 'png', 'jpeg', 'BMP', 'JPG', 'PNG', 'JPEG']:
+            print(f'DELETED BY UNSUPPORTED EXTENSION : {delition, ext}')
+            delition += 1
+            file_list.remove(ext)
+
+    print(f'NUMBER OF FILES TO BE DUPLICATED : {len(file_list)}')
+
+    # for filename in file_list: print(filename)
+
+    cnt = 1
+    for name in file_list:
+        img = load_img(source_path + '/' + name)
+        j = img_to_array(img)
+        j = j.reshape((1,) + j.shape)  # j 전체를 하나의 []로 묶음
+        i = 0
+        for _ in power_generator.flow(j, save_to_dir=save_path, save_prefix=name.split('.')[0] + '_gen',
+                                      save_format='jpg'):
+            print(f' {cnt}/{len(file_list) * duplication} DUPLICATING IMAGE {i} :: {name}...')
+            i += 1
+            cnt += 1
+            if i >= duplication:
+                break
+    print('END OF IMAGE DUPLICATION')
 
 
 """
