@@ -92,10 +92,11 @@ def array_transform(path, limitation=False, maximum=10000):
 
     for x in file_directory:  # we don't need to make it as enumerate.
         img_file = Image.open(path + '/' + x)
-        print(f'SELECTED FILE : {path + "/" + x}')
+        print(f'{x[0] + 1}/{len(file_directory)} : SELECTED FILE : {x[1]}...')
         img_file_converted = img_to_array(img_file)  # use keras module here
         transformed_array.append(img_file_converted)
 
+    print('END OF TRANSFORMATION')
     return np.array(transformed_array)
 
 
@@ -133,10 +134,35 @@ return : Numpy Array. each element will have length as len(sub_directory), quasi
 
     return np.array(OHE)
 
+################################################################################################
+
+def one_hot_encoding_string(source_path, extension_list):
+    """
+    Attaches One Hot encoding according to string.
+    source_path : String. Must be given as absolute path.
+    extension_list : Python Builtin list. Determines One hot encoding order.
+    """
+    print('One Hot Encoding-EXTENSION LIST Initialised')
+    OHE = []
+    print(f'CREATES OHE LIST LENGTH OF {len(OHE)} : {OHE}, {type(OHE)}')
+    target_directory = os.listdir(source_path)
+    print(len(target_directory))
+    for index, item in enumerate(extension_list):
+        for idx, img in enumerate(target_directory):
+            if item in img:
+                label = np.zeros(len(extension_list))
+                label[index] = 1
+                OHE.append(label)
+                print(
+                    f'{idx + 1}/{len(target_directory)}({round(100 * idx / len(target_directory), 2)}%) , file name : {img} appended!')
+    print('END OF LABELING')
+    return np.array(OHE)
+
+################################################################################################
 
 def image_generator(source_path, save_path, duplication=10):
     """
-    REFERED : MJ 03 IMAGE GENERATING.PY
+    REFERRED : MJ 03 IMAGE GENERATING.PY
 
     Duplicates images. In order to handle generating setting, modify function itself.
     Eventhough save_path does not exist, the function will create the directory.
