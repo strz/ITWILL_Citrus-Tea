@@ -91,18 +91,18 @@ if __name__ == '__main__':
     #
     # x = np.array([0,1,2,3,4])
     np.save("./code7.npy", x)   # x_save.npy
-    x_save_load = np.load("./code1.npy")
+    x_save_load = np.load("./code7.npy")
     print(x_save_load)
 
     # 폴더 안에 이미지를 불러와 픽셀 배열로 저장해 하나의 Dataset로 만들기
-    path = "./code1"
+    path = "./code7"
     X = file_to_array(path)
     print(X[0:2])
     print(f'X.shape: {np.shape(X)}') 
     print(type(X))
 
     # # y label 만들기
-    path = "./code1"
+    path = "./code7"
     y = creat_label(path)
     print(y)
     print(type(y))
